@@ -130,10 +130,6 @@ I'm a Full-Stack Developer and AI Enthusiast, driven by a curiosity for intellig
 </div>
 
 <br/>
-
-## <div align="center"> 
-  
-## <div align="center">
   
 ### 🤝 **Let's Connect!** 
 ⚡ _Collaborate • Create • Innovate_ ⚡
