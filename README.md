@@ -6,29 +6,36 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  A passionate Full-Stack developer & ML/DL Model creator from India
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-<br/>
+## 👨‍💻 About Me
 
-<div align="center">
- 
- 🔭 I'm currently working on **Natural Language to Database Retrieval Model**
+Hello! I'm Prajwal, a 3rd-year Computer Science & Design student at Srinivas Institute of Technology. My passion is turning innovative ideas into interactive digital experiences.
 
- 🌱 I'm currently learning **RAG pipelines, XAI for NLP, Advanced React & FastAPI**
+I'm a Full-Stack Developer and AI Enthusiast, driven by a curiosity for intelligent solutions. I thrive on solving complex problems, whether it's building a full-stack web app or a deep learning model.
 
- 👯 I'm looking to collaborate on **Doctor-Patient Translator (NLP for Healthcare)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajwalganiga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/PrajwalGaniga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@codeforge1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/_prajwal_ganiga__/?igsh=YW9xOXN3Ympsb3Z3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
- 🤝 I'm looking for help with **Smart Classroom System**
+---
 
- 💬 Ask me about **React.js, FastAPI, Deep Learning, NLP, TensorFlow, RAG**
-
- ⚡ Fun fact **I can switch from coding deep learning models to organizing college hackathons in the same day!**
- 
- </div>
+- 🔭 **I'm currently working on:** A **Natural Language to SQL** model and a **Smart Classroom** AI feedback system.
+- 🌱 **I'm currently learning:** Advanced **React**, **FastAPI** for high-performance backends, and **RAG pipelines** for NLP.
+- 👯 **I'm looking to collaborate on:** Innovative AI/NLP projects, especially in healthcare tech (like my completed **Doctor-Patient Translator**).
+- 💬 **Ask me about:** `React`, `Python`, `FastAPI`, `Deep Learning`, `NLP`, `MongoDB`, or `PostgreSQL`.
+- 🏐 **Interests:** Besides coding, I'm a member of my college **Volleyball** team and enjoy **Stock Market** analysis, **Anime**, and **Canvas Design**.
+- ⚡ **Fun fact:** I can switch from coding deep learning models to organizing a college-wide hackathon (like **Altius** or **Websurf**) all in the same day!
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
