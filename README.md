@@ -15,16 +15,16 @@ I'm a Full-Stack Developer and AI Enthusiast, driven by a curiosity for intellig
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajwalganiga" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-icon-png-download-7516819.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/PrajwalGaniga" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.youtube.com/@codeforge1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/_prajwal_ganiga__/?igsh=YW9xOXN3Ympsb3Z3" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
@@ -36,14 +36,6 @@ I'm a Full-Stack Developer and AI Enthusiast, driven by a curiosity for intellig
 - 💬 **Ask me about:** `React`, `Python`, `FastAPI`, `Deep Learning`, `NLP`, `MongoDB`, or `PostgreSQL`.
 - 🏐 **Interests:** Besides coding, I'm a member of my college **Volleyball** team and enjoy **Stock Market** analysis, **Anime**, and **Canvas Design**.
 - ⚡ **Fun fact:** I can switch from coding deep learning models to organizing a college-wide hackathon (like **Altius** or **Websurf**) all in the same day!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
-
-<br>
 
 <div align="center">
 
@@ -139,20 +131,46 @@ I'm a Full-Stack Developer and AI Enthusiast, driven by a curiosity for intellig
 
 <br/>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Let's Connect!</b>
+## <div align="center"> 
+  
+## <div align="center">
+  
+### 🤝 **Let's Connect!** 
+⚡ _Collaborate • Create • Innovate_ ⚡
+
+</div>
 
 <br>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalganiga06@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://prajwal-p-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/prajwalganiga)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_prajwal_ganiga__/?igsh=yw9xoxn3ympsb3z3)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codeforge1)
+| Platform | Badge | Description |
+|----------|-------|-------------|
+| **📧 Email** | [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalganiga06@gmail.com) | Quickest way to reach me |
+| **🚀 Portfolio** | [![Portfolio](https://img.shields.io/badge/Explore_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://prajwal-p-portfolio.netlify.app/) | See my work in action |
+| **💼 LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/prajwalganiga) | Professional network |
+| **📸 Instagram** | [![Instagram](https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prajwal_ganiga__/) | Behind the scenes |
+| **🎬 YouTube** | [![YouTube](https://img.shields.io/badge/Watch_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeforge1) | Learn with me |
 
 </div>
 
+<br>
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+  
+**⭐ Don't forget to star my repos if you find them helpful! ⭐**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=435&lines=Open+to+Collaborations!;Let's+build+something+awesome!;Available+for+Freelance+Work!" alt="Typing SVG" />
+
+</div>
 <br>
 
 ---
