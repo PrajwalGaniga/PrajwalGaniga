@@ -1,45 +1,106 @@
 <div align="center">
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:003300,100:00ff41&height=200&section=header&text=PRAJWAL%20GANIGA&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20SaaS%20Founder%20%7C%20IEEE%20Author&descSize=18&descAlignY=60&descColor=88ff88"/>
-<!-- MATRIX TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Initializing+Prajwal.exe+...+%5BSUCCESS%5D;%3E+Stack%3A+AI+%7C+Full-Stack+%7C+Health-Tech+%7C+Research;%3E+Status%3A+Deploying+the+future+of+Health-Tech+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a00,60:003300,100:00ff41&height=200&section=header&text=PRAJWAL%20GANIGA&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20SaaS%20Founder%20%7C%20IEEE%20Author&descAlignY=60&descColor=00cc33&descSize=18"/>
+
+</div>
+
+<div align="center">
+
+```
+██╗███╗   ██╗██╗████████╗██╗ █████╗ ██╗     ██╗███████╗██╗███╗   ██╗ ██████╗
+██║████╗  ██║██║╚══██╔══╝██║██╔══██╗██║     ██║╚══███╔╝██║████╗  ██║██╔════╝
+██║██╔██╗ ██║██║   ██║   ██║███████║██║     ██║  ███╔╝ ██║██╔██╗ ██║██║  ███╗
+██║██║╚██╗██║██║   ██║   ██║██╔══██║██║     ██║ ███╔╝  ██║██║╚██╗██║██║   ██║
+██║██║ ╚████║██║   ██║   ██║██║  ██║███████╗██║███████╗██║██║ ╚████║╚██████╔╝
+╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
+
+</div>
+
+<div align="center">
+
+> **`> Initializing Prajwal.exe ... [SUCCESS]`**
+>
+> **`> Stack: AI | Full-Stack | Health-Tech | Research`**
+
+</div>
+
 <br/>
-<!-- ANIMATED DIVIDER -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%A7%A0+Building+AI+that+heals+%7C+%F0%9F%93%84+IEEE+Published+2025;%F0%9F%8F%86+AYUSH+HABBA+2026+2nd+Place+%7C+%F0%9F%9B%A1%EF%B8%8F+SIH+2025+Team+Lead;%F0%9F%8C%BF+AYU-EAT+%7C+%F0%9F%A7%AC+Computable+Health+%7C+%F0%9F%9A%80+ONLINE+%7C+INNOVATING" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
+
 <br/>
-<!-- ABOUT ME TERMINAL BLOCK -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalGaniga&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F72D&text_color=00ff88&border_radius=15" width="300"/>
-```zsh
-┌──(prajwal㉿matrix)-[~/universe]
-└─$ whoami
-Name    : Prajwal Ganiga
-Role    : AI Researcher + SaaS Founder
-Rank    : #1 CS & Design Engineer (CGPA: 9.25)
-Base    : India 🇮🇳
 
-┌──(prajwal㉿matrix)-[~/research]
-└─$ cat achievements.log
-✦ IEEE Xplore Published Author (2025)
-→ Medical NMT | BLEU: 0.7747
-✦ 2nd Place — AYUSH HABBA 2026 (70+ teams)
-→ AYU-EAT: AI Ayurvedic Vitality Platform
-✦ Founder — Space for Website (SaaS)
-✦ SIH 2025 Team Lead — Digital Biosecurity Portal
+## 🧬 SYSTEM IDENTITY
 
-┌──(prajwal㉿matrix)-[~/interests]
-└─$ cat passions.txt
-⚡ Computable Health Modeling (Prakriti/Agni)
-⚡ Neural Machine Translation | Transformers
-⚡ YOLOv8 + Gemini AI Vision Systems
-⚡ Digital Health Twins & Predictive AI
-🏐 Volleyball Athlete | 📈 Stock Analyst | 🎌 Anime
+<table align="center">
+<tr>
+<td align="left" width="50%">
 
-└─$ status → ONLINE | BUILDING | INNOVATING
+### `whoami`
 
-<br clear="right"/>
+| Field | Value |
+|-------|-------|
+| 👤 **Name** | Prajwal Ganiga |
+| 🎯 **Role** | AI Researcher + SaaS Founder |
+| 🏅 **Rank** | #1 CS & Design Engineer |
+| 📊 **CGPA** | 9.25 |
+| 🌏 **Base** | India 🇮🇳 |
+| 📡 **Status** | `ONLINE \| BUILDING \| INNOVATING` |
+
+</td>
+<td align="left" width="50%">
+
+### `cat achievements.log`
+
+- ✦ **IEEE Xplore** Published Author (2025)
+- ✦ Medical NMT — BLEU **0.7747**
+- ✦ **2nd Place** — AYUSH HABBA 2026 (70+ teams)
+- ✦ AYU-EAT: AI Ayurvedic Vitality Platform
+- ✦ Founder — **Space for Website** (SaaS)
+- ✦ **SIH 2025** Team Lead — Digital Biosecurity Portal
+
+</td>
+</tr>
+<tr>
+<td align="left">
+
+### `cat passions.txt`
+
+⚡ Computable Health Modeling (Prakriti/Agni)<br/>
+⚡ Neural Machine Translation | Transformers<br/>
+⚡ YOLOv8 + Gemini AI Vision Systems<br/>
+⚡ Digital Health Twins & Predictive AI 🌑<br/>
+🏐 Volleyball Athlete | 📝 Stock Analyst | 🌀 Anime
+
+</td>
+<td align="left">
+
+### `uptime --since boot`
+
+```
+System  : Prajwal.exe v9.25
+Kernel  : Research-AI-6.0.0
+Uptime  : 20+ years, 0 crashes
+Load    : [████████████] 100%
+Memory  : Ideas overflow...
+Network : Always connected
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -53,8 +114,10 @@ Base    : India 🇮🇳
 
 ### 🧠 AI / ML / Deep Learning
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
@@ -64,10 +127,10 @@ Base    : India 🇮🇳
 
 ### 🌐 Full-Stack Engineering
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,flutter,flask&theme=dark" />
 </p>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -75,7 +138,7 @@ Base    : India 🇮🇳
 
 ### 🗄️ Databases & DevOps & Cloud
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,aws&theme=dark" />
 </p>
 
@@ -102,7 +165,6 @@ Base    : India 🇮🇳
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 [![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalGaniga&bg_color=0d1117&color=00ff41&line=00F72D&point=ffffff&area=true&hide_border=true&radius=8)](https://github.com/PrajwalGaniga)
@@ -177,21 +239,16 @@ Base    : India 🇮🇳
 
 <br/><br/>
 
-<!-- SNAKE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" 
-    src="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrajwalGaniga&color=00F72D&style=for-the-badge&label=PROFILE+VIEWS)
@@ -201,12 +258,10 @@ Base    : India 🇮🇳
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:006600,100:00ff41&height=120&section=footer&text=Thanks+for+visiting!+Let%27s+build+the+future+%F0%9F%9A%80&fontSize=16&fontColor=00ff88&animation=twinkling"/>
 </div>
 
-<!-- VISITOR TRACKING PIXEL -->
 <div align="center">
   <sub>⚡ Powered by curiosity, caffeine, and computable intelligence. ⚡</sub>
 </div>
