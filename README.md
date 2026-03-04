@@ -19,6 +19,7 @@ Name    : Prajwal Ganiga
 Role    : AI Researcher + SaaS Founder
 Rank    : #1 CS & Design Engineer (CGPA: 9.25)
 Base    : India 🇮🇳
+
 ┌──(prajwal㉿matrix)-[~/research]
 └─$ cat achievements.log
 ✦ IEEE Xplore Published Author (2025)
@@ -27,6 +28,7 @@ Base    : India 🇮🇳
 → AYU-EAT: AI Ayurvedic Vitality Platform
 ✦ Founder — Space for Website (SaaS)
 ✦ SIH 2025 Team Lead — Digital Biosecurity Portal
+
 ┌──(prajwal㉿matrix)-[~/interests]
 └─$ cat passions.txt
 ⚡ Computable Health Modeling (Prakriti/Agni)
@@ -34,7 +36,9 @@ Base    : India 🇮🇳
 ⚡ YOLOv8 + Gemini AI Vision Systems
 ⚡ Digital Health Twins & Predictive AI
 🏐 Volleyball Athlete | 📈 Stock Analyst | 🎌 Anime
+
 └─$ status → ONLINE | BUILDING | INNOVATING
+```
 
 <br clear="right"/>
 
