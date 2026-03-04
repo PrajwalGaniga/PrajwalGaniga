@@ -1,243 +1,206 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prajwal+Ganiga!;" />
-</h1>
+<div align="center">
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:003300,100:00ff41&height=200&section=header&text=PRAJWAL%20GANIGA&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20SaaS%20Founder%20%7C%20IEEE%20Author&descSize=18&descAlignY=60&descColor=88ff88"/>
+<!-- MATRIX TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Initializing+Prajwal.exe+...+%5BSUCCESS%5D;%3E+Stack%3A+AI+%7C+Full-Stack+%7C+Health-Tech+%7C+Research;%3E+Status%3A+Deploying+the+future+of+Health-Tech+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/>
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+<br/>
+<!-- ABOUT ME TERMINAL BLOCK -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalGaniga&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F72D&text_color=00ff88&border_radius=15" width="300"/>
+```zsh
+┌──(prajwal㉿matrix)-[~/universe]
+└─$ whoami
+Name    : Prajwal Ganiga
+Role    : AI Researcher + SaaS Founder
+Rank    : #1 CS & Design Engineer (CGPA: 9.25)
+Base    : India 🇮🇳
+┌──(prajwal㉿matrix)-[~/research]
+└─$ cat achievements.log
+✦ IEEE Xplore Published Author (2025)
+→ Medical NMT | BLEU: 0.7747
+✦ 2nd Place — AYUSH HABBA 2026 (70+ teams)
+→ AYU-EAT: AI Ayurvedic Vitality Platform
+✦ Founder — Space for Website (SaaS)
+✦ SIH 2025 Team Lead — Digital Biosecurity Portal
+┌──(prajwal㉿matrix)-[~/interests]
+└─$ cat passions.txt
+⚡ Computable Health Modeling (Prakriti/Agni)
+⚡ Neural Machine Translation | Transformers
+⚡ YOLOv8 + Gemini AI Vision Systems
+⚡ Digital Health Twins & Predictive AI
+🏐 Volleyball Athlete | 📈 Stock Analyst | 🎌 Anime
+└─$ status → ONLINE | BUILDING | INNOVATING
+
+<br clear="right"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+<br/>
 
-## 👨‍💻 About Me
-
-Hello! I'm Prajwal, a 3rd-year Computer Science & Design student at Srinivas Institute of Technology. My passion is turning innovative ideas into interactive digital experiences.
-
-I'm a Full-Stack Developer and AI Enthusiast, driven by a curiosity for intelligent solutions. I thrive on solving complex problems, whether it's building a full-stack web app or a deep learning model.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prajwalganiga" target="_blank">
-    <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-icon-png-download-7516819.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/PrajwalGaniga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@codeforge1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/_prajwal_ganiga__/?igsh=YW9xOXN3Ympsb3Z3" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-- 🔭 **I'm currently working on:** A **Natural Language to SQL** model and a **Smart Classroom** AI feedback system.
-- 🌱 **I'm currently learning:** Advanced **React**, **FastAPI** for high-performance backends, and **RAG pipelines** for NLP.
-- 👯 **I'm looking to collaborate on:** Innovative AI/NLP projects, especially in healthcare tech (like my completed **Doctor-Patient Translator**).
-- 💬 **Ask me about:** `React`, `Python`, `FastAPI`, `Deep Learning`, `NLP`, `MongoDB`, or `PostgreSQL`.
-- 🏐 **Interests:** Besides coding, I'm a member of my college **Volleyball** team and enjoy **Stock Market** analysis, **Anime**, and **Canvas Design**.
-- ⚡ **Fun fact:** I can switch from coding deep learning models to organizing a college-wide hackathon (like **Altius** or **Websurf**) all in the same day!
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBIOTYl/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; TECH ARSENAL
 
 <div align="center">
 
-### 🚀 **Programming Languages**
+### 🧠 AI / ML / Deep Learning
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </p>
 
-### 🌐 **Frontend Development**
+### 🌐 Full-Stack Engineering
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,flutter,flask&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🛠 **Backend Development**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
-</p>
+### 🗄️ Databases & DevOps & Cloud
 
-### 🗄️ **Databases**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60"/>
-</p>
-
-### 🤖 **AI/ML & Data Science**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
-</p>
-
-### ☁️ **Cloud & DevOps**
-<p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-icon-svg-download-png-2944772.png" alt="AWS" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60"/>
-</p>
-
-### 📱 **Mobile Development**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="60" height="60"/>
-</p>
-
-### 🎨 **Design & Tools**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,aws&theme=dark" />
 </p>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-<br>
-
 <div align="center">
-  <a href="https://github.com/prajwalganiga">
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prajwalganiga&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6c63ff&icon_color=6c63ff" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalganiga&theme=react&hide_border=true&background=0D1117&stroke=6c63ff&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/prajwalganiga">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalganiga&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6c63ff&text_color=a1a1a6" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalganiga&custom_title=Prajwal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6c63ff&line=6c63ff&point=ff6584&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 <br/>
-  
-### 🤝 **Let's Connect!** 
-⚡ _Collaborate • Create • Innovate_ ⚡
 
-</div>
-
-<br>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; SYSTEM DIAGNOSTICS
 
 <div align="center">
 
-| Platform | Badge | Description |
-|----------|-------|-------------|
-| **📧 Email** | [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalganiga06@gmail.com) | Quickest way to reach me |
-| **🚀 Portfolio** | [![Portfolio](https://img.shields.io/badge/Explore_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://prajwal-p-portfolio.netlify.app/) | See my work in action |
-| **💼 LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/prajwalganiga) | Professional network |
-| **📸 Instagram** | [![Instagram](https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_prajwal_ganiga__/) | Behind the scenes |
-| **🎬 YouTube** | [![YouTube](https://img.shields.io/badge/Watch_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeforge1) | Learn with me |
-
-</div>
-
-<br>
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-  
-**⭐ Don't forget to star my repos if you find them helpful! ⭐**
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=435&lines=Open+to+Collaborations!;Let's+build+something+awesome!;Available+for+Freelance+Work!" alt="Typing SVG" />
-
-</div>
-<br>
-
----
-
-<div align="center">
-
-### 💻 **Visitors Count**
-![Visitor Count](https://komarev.com/ghpvc/?username=prajwalganiga&label=Profile%20Views&color=6c63ff&style=flat)
-
-### ⭐ **From**
-<a href="https://github.com/prajwalganiga">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/4d9a14199873943.6658ac3b0d2f2.gif" alt="Animation" />
-
+<a href="https://github.com/PrajwalGaniga">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrajwalGaniga&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F72D&icon_color=00F72D&text_color=c9d1d9&border_radius=15"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalGaniga&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00F72D&ring=00F72D&fire=00F72D&currStreakLabel=00F72D&border_radius=15"/>
 </a>
 
 </div>
 
----
+<br/>
 
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-### 🎯 **Current Focus**
-
-```javascript
-const currentFocus = {
-  projects: [
-    "Natural Language to Database Retrieval Model",
-    "Doctor-Patient Translator (NLP for Healthcare)",
-    "Smart Classroom System"
-  ],
-  learning: [
-    "Retrieval-Augmented Generation (RAG) pipelines",
-    "Explainable AI (XAI) for NLP models", 
-    "Advanced React and FastAPI integrations",
-    "AWS cloud deployment"
-  ],
-  collaboration: "Open to innovative projects in AI/ML and Full-Stack Development"
-};
-```
-
-<img src="https://assets-v2.lottiefiles.com/a/8a843ad4-0950-11f0-bf78-63aabb686a8c/JGUGdgL3k5.gif" width="300" height="300" align="right" alt="Coding Animation">
+[![Prajwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalGaniga&bg_color=0d1117&color=00ff41&line=00F72D&point=ffffff&area=true&hide_border=true&radius=8)](https://github.com/PrajwalGaniga)
 
 </div>
 
-<br>
+<br/>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+## 🔬 RESEARCH & PROJECTS SPOTLIGHT
 
 <div align="center">
 
-### 🏆 **GitHub Profile Trophy**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prajwalganiga&theme=onedark&no-frame=true&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+| 🚀 Project | 💡 Description | 🛠️ Stack |
+|:---:|:---:|:---:|
+| **📄 IEEE Medical NMT** | Kannada Medical Translation using Transformers — BLEU 0.7747 | `Transformers` `BERT` `PyTorch` |
+| **🌿 AYU-EAT** | AI-Powered Ayurvedic Vitality Platform — 2nd @ AYUSH HABBA 2026 | `YOLOv8` `Gemini AI` `FastAPI` |
+| **🛡️ Digital Biosecurity Portal** | National-Scale Biosecurity System — SIH 2025 | `Next.js` `PostgreSQL` `Docker` |
+| **🌐 Space for Website** | SaaS Platform & Clinic Portals | `React 19` `Node.js` `MongoDB` |
+| **🧬 Computable Health Engine** | Prakriti/Agni/Dosha Modeling System | `FastAPI` `Deep Learning` `Python` |
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 TROPHY CABINET
 
 <div align="center">
 
-### 📈 **Contribution Calendar**
-
-<!-- GitHub Calendar -->
-<img src="https://ghchart.rshah.org/6c63ff/prajwalganiga" alt="Prajwal's Github Chart" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrajwalGaniga&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+## 📡 CONNECT WITH ME
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=120&section=footer&text=Thanks+for+visiting!+🚀&fontSize=20&fontColor=ffffff" />
+<a href="mailto:prajwalganiga06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/prajwalganiga" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>&nbsp;
+<a href="https://prajwal-p-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00F72D?style=for-the-badge&logo=netlify&logoColor=black&labelColor=0D1117"/>
+</a>&nbsp;
+<a href="https://www.youtube.com/@codeforge1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/_prajwal_ganiga__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
+</a>
 
+<br/><br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PrajwalGaniga/PrajwalGaniga/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrajwalGaniga&color=00F72D&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/PrajwalGaniga?style=for-the-badge&color=00F72D&labelColor=0D1117&logo=github)](https://github.com/PrajwalGaniga)
+
+</div>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:006600,100:00ff41&height=120&section=footer&text=Thanks+for+visiting!+Let%27s+build+the+future+%F0%9F%9A%80&fontSize=16&fontColor=00ff88&animation=twinkling"/>
+</div>
+
+<!-- VISITOR TRACKING PIXEL -->
+<div align="center">
+  <sub>⚡ Powered by curiosity, caffeine, and computable intelligence. ⚡</sub>
 </div>
