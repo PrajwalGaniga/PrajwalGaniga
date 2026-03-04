@@ -37,7 +37,7 @@ Base    : India 🇮🇳
 ⚡ Digital Health Twins & Predictive AI
 🏐 Volleyball Athlete | 📈 Stock Analyst | 🎌 Anime
 
-└─$ status → ONLINE | BUILDING | INNOVATING```
+└─$ status → ONLINE | BUILDING | INNOVATING
 
 <br clear="right"/>
 
